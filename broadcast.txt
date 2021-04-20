@@ -1,4 +1,4 @@
- Server Message: GhostDbD just got updated to version 1.1.0! 
+ Server Message: Small SSL Bypass update to improve the safety. 
  You can now get 2 new downloads (SAM and FLashlight Spammer). 
  R-Unlocker now includes the SPRING ENSEMBLES collection! 
  BlackUnlocker updated to V3, enjoy an improved UI, unlock all DLCs, cosmetics and rift charms. 
