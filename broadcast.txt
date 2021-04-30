@@ -1,4 +1,5 @@
- Server Message: Small SSL Bypass update to improve the safety. 
+ Server Message: I will remove the login system on the next updates, info in my Discord Server.
+ Small SSL Bypass update to improve the safety. 
  You can now get 2 new downloads (SAM and FLashlight Spammer). 
  R-Unlocker now includes the SPRING ENSEMBLES collection! 
- BlackUnlocker updated to V3, enjoy an improved UI, unlock all DLCs, cosmetics and rift charms. 
+  
