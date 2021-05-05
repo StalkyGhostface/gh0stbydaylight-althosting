@@ -1,5 +1,1 @@
- Server Message: I will remove the login system on the next updates, info in my Discord Server.
- Small SSL Bypass update to improve the safety. 
- You can now get 2 new downloads (SAM and FLashlight Spammer). 
- R-Unlocker now includes the SPRING ENSEMBLES collection! 
-  
+ Server Message: Mantainance Mode is active! Check the Discord Server for more info.
