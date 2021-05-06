@@ -1,1 +1,3 @@
- Server Message: Mantainance Mode is active! Check the Discord Server for more info.
+ Server Message: Users of v.1.1.0, please update to v.1.5.0.
+Lots of features and downloads added with this latest version! 
+Check the whole changelogs on my Discord Server.
