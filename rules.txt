@@ -1994,11 +1994,6 @@
                 "objectId": "NK_Torso01_crew01Kraken",
                 "quantity": 1
             },
-	    {
-                "lastUpdateAt": 1617139958,
-                "objectId": "NK_Torso01_Diabetech",
-                "quantity": 1
-            },
             {
                 "lastUpdateAt": 1617139958,
                 "objectId": "LS_Head006",
