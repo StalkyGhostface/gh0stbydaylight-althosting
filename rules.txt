@@ -1995,8 +1995,8 @@
                 "quantity": 1
             },
 	    {
-                "lastUpdateAt": 1617206227,
-                "objectId": "NK_Torso01_DiabetechKraken",
+                "lastUpdateAt": 1617152186,
+                "objectId": "NK_Torso01_Diabetech",
                 "quantity": 1
             },
             {
