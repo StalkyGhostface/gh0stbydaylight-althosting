@@ -1,1 +1,1 @@
-1.0.0a (BETA)
+1.0.0c (Release)
