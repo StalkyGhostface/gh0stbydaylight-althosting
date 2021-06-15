@@ -1,6 +1,2 @@
- Server Announcement: GhostCosmetics & GhostBloody got released. Download now at my Discord!
-  GhostDbD will get updated in a few hours! :o
-  Welcome to all the new Olympus users! Appreciate your visit!
-  Welcome to all the new GarnettTheevil users too. Appreciate your visit!
-  Dead by Daylight got updated to 4.7.2, everything works and there's no need to update.
-  Enjoy your week ;)
+MAINTENANCE MODE ENABLED! Users of v.1.5.0 should stop using
+GhostDbD.
