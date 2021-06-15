@@ -15,6 +15,16 @@
                 "quantity": 1
             },
             {
+                "lastUpdateAt": 1617205542,
+                "objectId": "Smoke",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617205542,
+                "objectId": "Bob",
+                "quantity": 1
+            },
+            {
                 "lastUpdateAt": 1617118721,
                 "objectId": "Shape",
                 "quantity": 1
