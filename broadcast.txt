@@ -1,2 +1,1 @@
-MAINTENANCE MODE ENABLED! Users of v.1.5.0 should stop using
-GhostDbD.
+GhostDbD got updated to version 1.7.0!
