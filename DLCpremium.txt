@@ -1,0 +1,214 @@
+{
+    "code": 200,
+    "message": "OK",
+    "data": {
+        "playerId": "Ghosty",
+        "inventory": [
+            {
+                "lastUpdateAt": 1617130031,
+                "objectId": "Laurie",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617122644,
+                "objectId": "Ace",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617205542,
+                "objectId": "Smoke",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617205542,
+                "objectId": "Bob",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617118721,
+                "objectId": "Shape",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617133654,
+                "objectId": "Witch",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617169011,
+                "objectId": "Feng",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617123768,
+                "objectId": "Killer07",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617215717,
+                "objectId": "Kate",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617186842,
+                "objectId": "Cannibal",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617186967,
+                "objectId": "Quentin",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617128092,
+                "objectId": "Nightmare",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617125513,
+                "objectId": "Eric",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617125822,
+                "objectId": "Pig",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617122683,
+                "objectId": "Clown",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617170752,
+                "objectId": "Adam",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617141357,
+                "objectId": "Spirit",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617181698,
+                "objectId": "Legion",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617211391,
+                "objectId": "Jeff",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617130788,
+                "objectId": "Plague",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617181297,
+                "objectId": "Jane",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617186662,
+                "objectId": "Ash",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617123747,
+                "objectId": "Ghostface",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617180008,
+                "objectId": "Steve",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617123381,
+                "objectId": "Nancy",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617214794,
+                "objectId": "Demogorgon",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617188775,
+                "objectId": "Oni",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617145324,
+                "objectId": "Yui",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617184441,
+                "objectId": "Gunslinger",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617204238,
+                "objectId": "Zarina",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617139051,
+                "objectId": "K20",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617146224,
+                "objectId": "S22",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617200541,
+                "objectId": "K21",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617181138,
+                "objectId": "S23",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617159151,
+                "objectId": "K22",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617139124,
+                "objectId": "S24",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617184641,
+                "objectId": "K23",
+                "quantity": 1
+            },
+                        {
+                "lastUpdateAt": 1617184641,
+                "objectId": "K24",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617130038,
+                "objectId": "S25",
+                "quantity": 1
+            },
+                        {
+                "lastUpdateAt": 1617130038,
+                "objectId": "S26",
+                "quantity": 1
+            },
+                        {
+                "lastUpdateAt": 1617130038,
+                "objectId": "S27",
+                "quantity": 1
+            },
+             ]
+    }
+}
