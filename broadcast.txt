@@ -1,6 +1,7 @@
  SERVER MESSAGE
- SSL Bypass Updated
- GhostDbD got updated to version 1.7.0!
- GhostCosmetics Premium is now available for purchase at my server :)
- You can now download GhostCosmetics and GhostBloody using GhostDbD!
- Enjoy the Resident Evil Chapter!
+  GhostCosmetics updated to v.1.1.0b
+  SSL Bypass Updated
+  GhostDbD got updated to version 1.7.0!
+  GhostCosmetics Premium is now available for purchase at my server :)
+  New Dead by Daylight PTB will be released soon
+  Enjoy the Resident Evil Chapter!
