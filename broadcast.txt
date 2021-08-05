@@ -1,7 +1,4 @@
  SERVER MESSAGE
-  GhostCosmetics updated to v.1.1.0b
-  SSL Bypass Updated
-  GhostDbD got updated to version 1.7.0!
-  GhostCosmetics Premium is now available for purchase at my server :)
-  New Dead by Daylight PTB will be released soon
-  Enjoy the Resident Evil Chapter!
+  SSL Bypass Updated.
+  GhostCosmetics Premium is now available for purchase at Olympus.
+  Legacy Mode was enabled.
