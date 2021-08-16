@@ -2,16 +2,16 @@
     "code": 200,
     "message": "OK",
     "data": {
-        "playerId": "Premium",
+        "playerId": "GhostyPremium",
         "inventory": [
             {
                 "lastUpdateAt": 1617130031,
-                "objectId": "Laurie",
+                "objectId": "Ace",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617122644,
-                "objectId": "Ace",
+                "objectId": "Laurie",
                 "quantity": 1
             },
             {
