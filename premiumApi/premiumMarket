@@ -2,7 +2,7 @@
     "code": 200,
     "message": "OK",
     "data": {
-        "playerId": "GhostyPremium",
+        "playerId": "St4lkyPremium",
         "inventory": [
             {
                 "lastUpdateAt": 1617130031,
@@ -21,12 +21,12 @@
             },
             {
                 "lastUpdateAt": 1617133654,
-                "objectId": "Witch",
+                "objectId": "Feng",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617169011,
-                "objectId": "Feng",
+                "objectId": "Witch",
                 "quantity": 1
             },
             {
@@ -36,12 +36,12 @@
             },
             {
                 "lastUpdateAt": 1617215717,
-                "objectId": "Cannibal",
+                "objectId": "Kate",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617186842,
-                "objectId": "Kate",
+                "objectId": "Cannibal",
                 "quantity": 1
             },
             {
@@ -76,12 +76,12 @@
             },
             {
                 "lastUpdateAt": 1617141357,
-                "objectId": "Legion",
+                "objectId": "Spirit",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617181698,
-                "objectId": "Spirit",
+                "objectId": "Legion",
                 "quantity": 1
             },
             {
@@ -17931,6 +17931,16 @@
           {
                 "lastUpdateAt": 1637112591,
                 "objectId": "K23_Weapon008",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GE_002",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GE_001",
                 "quantity": 1
           }
         ]
