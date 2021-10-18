@@ -2,7 +2,7 @@
     "code": 200,
     "message": "OK",
     "data": {
-        "playerId": "GhostyFree",
+        "playerId": "St4lkyFree",
         "inventory": [
             {
                 "lastUpdateAt": 1617130031,
@@ -21,12 +21,12 @@
             },
             {
                 "lastUpdateAt": 1617133654,
-                "objectId": "Witch",
+                "objectId": "Feng",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617169011,
-                "objectId": "Feng",
+                "objectId": "Witch",
                 "quantity": 1
             },
             {
@@ -46,12 +46,12 @@
             },
             {
                 "lastUpdateAt": 1617186967,
-                "objectId": "Nightmare",
+                "objectId": "Quentin",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617128092,
-                "objectId": "Quentin",
+                "objectId": "Nightmare",
                 "quantity": 1
             },
             {
@@ -66,12 +66,12 @@
             },
             {
                 "lastUpdateAt": 1617122683,
-                "objectId": "Adam",
+                "objectId": "Clown",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617170752,
-                "objectId": "Clown",
+                "objectId": "Adam",
                 "quantity": 1
             },
             {
@@ -17931,6 +17931,16 @@
           {
                 "lastUpdateAt": 1637112591,
                 "objectId": "K23_Weapon008",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GE_002",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GE_001",
                 "quantity": 1
           }
         ]
