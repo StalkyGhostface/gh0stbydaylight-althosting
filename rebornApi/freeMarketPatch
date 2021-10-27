@@ -2,7 +2,7 @@
     "code": 200,
     "message": "OK",
     "data": {
-        "playerId": "St4lkyPremium",
+        "playerId": "St4lkyFree",
         "inventory": [
 	{
                 "lastUpdateAt": 1617130798,
