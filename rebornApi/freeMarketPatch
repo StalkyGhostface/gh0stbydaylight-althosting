@@ -4,14 +4,14 @@
     "data": {
         "playerId": "St4lkyFree",
         "inventory": [
-            {
+	    {
                 "lastUpdateAt": 1617130798,
-                "objectId": "Laurie",
+                "objectId": "Ace",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617213354,
-                "objectId": "Ace",
+                "objectId": "Laurie",
                 "quantity": 1
             },
             {
@@ -185,6 +185,11 @@
                 "quantity": 1
             },
             {
+                "lastUpdateAt": 1617130798,
+                "objectId": "TR_W02_01",
+                "quantity": 1
+            },
+            {
                 "lastUpdateAt": 1617205542,
                 "objectId": "S29",
                 "quantity": 1
@@ -237,11 +242,6 @@
             {
                 "lastUpdateAt": 1617205542,
                 "objectId": "FM_Torso016",
-                "quantity": 1
-            },
-	    {
-                "lastUpdateAt": 1617130798,
-                "objectId": "TR_W02_01",
                 "quantity": 1
             },
             {
@@ -19340,17 +19340,32 @@
             },
             {
                 "lastUpdateAt": 1617190982,
-                "objectId": "OK_W009",
+                "objectId": "OK_W010",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617190982,
-                "objectId": "OK_Body009",
+                "objectId": "OK_Body010",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617190982,
-                "objectId": "OK_Mask009",
+                "objectId": "OK_Mask010",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HK_W013",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HK_Body013",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HK_Head013",
                 "quantity": 1
             }
         ]
