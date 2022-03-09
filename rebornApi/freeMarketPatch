@@ -199,6 +199,16 @@
                 "objectId": "K26",
                 "quantity": 1
             },
+	    {
+                "lastUpdateAt": 1617205544,
+                "objectId": "S30",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617205545,
+                "objectId": "K27",
+                "quantity": 1
+            },
             {
                 "lastUpdateAt": 1617130798,
                 "objectId": "TR_Body02_03",
@@ -20042,7 +20052,37 @@
                 "lastUpdateAt": 1617190981,
                 "objectId": "S27_Torso007",
                 "quantity": 1
-            }
+             },
+	    {
+                "lastUpdateAt": 1617140189,
+                "objectId": "S30_Torso006",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617140192,
+                "objectId": "S30_Head006",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617140191,
+                "objectId": "S30_Legs006",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617140191,
+                "objectId": "K27_Body006",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617140191,
+                "objectId": "K27_Head006",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617140191,
+                "objectId": "K27_W006",
+                "quantity": 1
+	    }
         ]
     }
 }
